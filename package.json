@@ -1,0 +1,19 @@
+{
+    "name": "cricket",
+    "version": "1.0.0",
+    "description": "Cricket Live Scores",
+    "main": "Cricket.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Cricket"
+    ],
+    "dependencies": {
+        "axios": "^0.20.0",
+        "cheerio": "^1.0.0-rc.3",
+        "node-notifier": "^8.0.0"
+    },
+    "author": "Manish",
+    "license": "MIT"
+}
